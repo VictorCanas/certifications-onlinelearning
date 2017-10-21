@@ -5,6 +5,7 @@
   <tr>
     <th>Sololearn Certifications</th>
     <th>Codecademy</th>
+    <th>Edx</th>
     <th>Miscellaneous</th>
   </tr>
   <tr>
