@@ -5,7 +5,7 @@
   <tr>
     <th>Sololearn Certifications</th>
     <th>Contact</th>
-    <th>Country</th>
+    <th>Miscellaneous</th>
   </tr>
   <tr>
     <td><a href="https://www.sololearn.com/Certificate/1014-324133/pdf/">HTML Certification</a></td>
