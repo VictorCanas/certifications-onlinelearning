@@ -13,17 +13,17 @@
     <td>Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td><a href="https://www.sololearn.com/Certificate/1023-324133/pdf/">CSS Certification</a></td>
     <td>Francisco Chang</td>
     <td>Mexico</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
+    <td><a href="https://www.sololearn.com/Certificate/1024-324133/pdf/">JavaScript Certification</a></td>
     <td>Roland Mendel</td>
     <td>Austria</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
+    <td><a href="https://www.sololearn.com/Certificate/1082-324133/pdf/">Jquery Certification</a></td>
     <td>Helen Bennett</td>
     <td>UK</td>
   </tr>
@@ -38,9 +38,3 @@
     <td>Italy</td>
   </tr>
 </table>
-
-<strong>Sololearn Certifications</strong>
-- <a href="https://www.sololearn.com/Certificate/1014-324133/pdf/">HTML Certification</a>
-- <a href="https://www.sololearn.com/Certificate/1023-324133/pdf/">CSS Certification</a>
-- <a href="https://www.sololearn.com/Certificate/1024-324133/pdf/">JavaScript Certification</a>
-- <a href="https://www.sololearn.com/Certificate/1082-324133/pdf/">Jquery Certification</a>
