@@ -3,12 +3,12 @@
 
 <table>
   <tr>
-    <th>Company</th>
+    <th>Sololearn Certifications</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td><a href="https://www.sololearn.com/Certificate/1014-324133/pdf/">HTML Certification</a></td>
     <td>Maria Anders</td>
     <td>Germany</td>
   </tr>
@@ -38,8 +38,6 @@
     <td>Italy</td>
   </tr>
 </table>
-
-</body>
 
 <strong>Sololearn Certifications</strong>
 - <a href="https://www.sololearn.com/Certificate/1014-324133/pdf/">HTML Certification</a>
