@@ -5,13 +5,13 @@
   <tr>
     <th>Sololearn Certifications</th>
     <th>Codecademy</th>
-    <th>Edx</th>
+    <th>Udemy</th>
     <th>Miscellaneous</th>
   </tr>
   <tr>
     <td><a href="https://www.sololearn.com/Certificate/1014-324133/pdf/">HTML Certification</a></td>
     <td>#</td>
-    <td><a href="https://courses.edx.org/certificates/57dfcf13e3c5477a8966c8b3bbe34b33">DEV211.1x: JavaScript, HTML and CSS Web Development</a></td>
+    <td>#</td>
     <td>Microsoft Office Specialist</td>
   </tr>
   <tr>
@@ -28,6 +28,50 @@
   </tr>
   <tr>
     <td><a href="https://www.sololearn.com/Certificate/1082-324133/pdf/">Jquery Certification</a></td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <th>Edx</th>
+    <th>Eduonix</th>
+    <th>Nigtbox</th>
+    <th>Miscellaneous</th>
+  </tr>
+  <tr>
+    <td><a href="https://courses.edx.org/certificates/57dfcf13e3c5477a8966c8b3bbe34b33">DEV211.1x: JavaScript, HTML and CSS Web Development</a></td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+  <tr>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+    <td>#</td>
+  </tr>
+  <tr>
+    <td>#</td>
     <td>#</td>
     <td>#</td>
     <td>#</td>
