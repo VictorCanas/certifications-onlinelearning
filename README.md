@@ -50,7 +50,7 @@
     <th>Edx</th>
     <th>Eduonix</th>
     <th>Nigtbox</th>
-    <th>Miscellaneous</th>
+    <th>Books</th>
   </tr>
   <tr>
     <td><a href="https://courses.edx.org/certificates/57dfcf13e3c5477a8966c8b3bbe34b33">DEV211.1x: JavaScript, HTML and CSS Web Development</a></td>
