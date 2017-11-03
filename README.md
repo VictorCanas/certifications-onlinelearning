@@ -28,14 +28,14 @@
   </tr>
   <tr>
     <td><a href="https://www.sololearn.com/Certificate/1082-324133/pdf/">Jquery Certification</a></td>
-    <td>Basic Front End Development Projects: Build a Tribute page | Build a Personal Portfolio Webpage</td>
     <td>#</td>
+    <td>Projects - Build a tribute page</td>
     <td>#</td>
   </tr>
   <tr>
     <td>#</td>
     <td>#</td>
-    <td>#</td>
+    <td>Projects - Build a personal portfolio webpage</td>
     <td>#</td>
   </tr>
   <tr>
